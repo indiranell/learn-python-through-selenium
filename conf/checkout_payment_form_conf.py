@@ -1,0 +1,6 @@
+email = 'afcszdfbc@abcxzy.com'
+credit_card ='4242 4242 4242 4242'
+mmyy ='10/30'
+cvv ='123'
+phone ='9900378310'
+zip_code_text ='123456'
